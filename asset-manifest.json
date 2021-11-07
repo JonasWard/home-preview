@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31b639fe.chunk.css",
+    "main.js": "/static/js/main.c5db329f.chunk.js",
+    "main.js.map": "/static/js/main.c5db329f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ea8d58f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ea8d58f.js.map",
+    "static/js/2.e03c949d.chunk.js": "/static/js/2.e03c949d.chunk.js",
+    "static/js/2.e03c949d.chunk.js.map": "/static/js/2.e03c949d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.31b639fe.chunk.css.map": "/static/css/main.31b639fe.chunk.css.map",
+    "static/js/2.e03c949d.chunk.js.LICENSE.txt": "/static/js/2.e03c949d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Frutiger Next.cd68fc3d.ttf",
+    "static/media/simple-3d.scss": "/static/media/a_building.9f37953e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea8d58f.js",
+    "static/js/2.e03c949d.chunk.js",
+    "static/css/main.31b639fe.chunk.css",
+    "static/js/main.c5db329f.chunk.js"
+  ]
+}
