@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/home-preview/static/css/main.5a8ffa91.chunk.css",
-    "main.js": "/home-preview/static/js/main.c5db329f.chunk.js",
-    "main.js.map": "/home-preview/static/js/main.c5db329f.chunk.js.map",
+    "main.js": "/home-preview/static/js/main.cf936d6a.chunk.js",
+    "main.js.map": "/home-preview/static/js/main.cf936d6a.chunk.js.map",
     "runtime-main.js": "/home-preview/static/js/runtime-main.4107d5d3.js",
     "runtime-main.js.map": "/home-preview/static/js/runtime-main.4107d5d3.js.map",
-    "static/js/2.dfe30b29.chunk.js": "/home-preview/static/js/2.dfe30b29.chunk.js",
-    "static/js/2.dfe30b29.chunk.js.map": "/home-preview/static/js/2.dfe30b29.chunk.js.map",
+    "static/js/2.463ddcb4.chunk.js": "/home-preview/static/js/2.463ddcb4.chunk.js",
+    "static/js/2.463ddcb4.chunk.js.map": "/home-preview/static/js/2.463ddcb4.chunk.js.map",
     "index.html": "/home-preview/index.html",
     "static/css/main.5a8ffa91.chunk.css.map": "/home-preview/static/css/main.5a8ffa91.chunk.css.map",
-    "static/js/2.dfe30b29.chunk.js.LICENSE.txt": "/home-preview/static/js/2.dfe30b29.chunk.js.LICENSE.txt",
+    "static/js/2.463ddcb4.chunk.js.LICENSE.txt": "/home-preview/static/js/2.463ddcb4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/home-preview/static/media/Frutiger Next.cd68fc3d.ttf",
     "static/media/simple-3d.scss": "/home-preview/static/media/a_building.9f37953e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4107d5d3.js",
-    "static/js/2.dfe30b29.chunk.js",
+    "static/js/2.463ddcb4.chunk.js",
     "static/css/main.5a8ffa91.chunk.css",
-    "static/js/main.c5db329f.chunk.js"
+    "static/js/main.cf936d6a.chunk.js"
   ]
 }
