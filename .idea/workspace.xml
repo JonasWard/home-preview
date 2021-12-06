@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8847a47-61b9-4909-a07a-be49773c762f" name="Changes" comment="" />
+    <list default="true" id="e8847a47-61b9-4909-a07a-be49773c762f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.05e6dbcc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.05e6dbcc.chunk.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636939242252</updated>
       <workItem from="1636939243828" duration="5508000" />
-      <workItem from="1638778774420" duration="490000" />
+      <workItem from="1638778774420" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="reset, some new textures, orthogonal view">
       <created>1636939590632</created>
@@ -74,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638778967307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add all">
+      <created>1638779392311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779392311</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +103,7 @@
     <MESSAGE value="reset, some new textures, orthogonal view" />
     <MESSAGE value="added missing js chunks" />
     <MESSAGE value="update december (colors, windows)" />
-    <option name="LAST_COMMIT_MESSAGE" value="update december (colors, windows)" />
+    <MESSAGE value="add all" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all" />
   </component>
 </project>
