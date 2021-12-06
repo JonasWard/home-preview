@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8847a47-61b9-4909-a07a-be49773c762f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20vyEFk1AGBXDxw1FxZCJNOUXN4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8847a47-61b9-4909-a07a-be49773c762f" name="Changes" comment="" />
+      <created>1636939242252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636939242252</updated>
+      <workItem from="1636939243828" duration="5508000" />
+      <workItem from="1638778774420" duration="490000" />
+    </task>
+    <task id="LOCAL-00001" summary="reset, some new textures, orthogonal view">
+      <created>1636939590632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636939590632</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added missing js chunks">
+      <created>1636939675156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636939675156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update december (colors, windows)">
+      <created>1638778862144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638778862144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update december (colors, windows)">
+      <created>1638778967307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638778967307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/JonasWard/home-preview&#10;&#10;# Conflicts:&#10;#&#9;.DS_Store&#10;#&#9;asset-manifest.json&#10;#&#9;index.html&#10;#&#9;static/.DS_Store&#10;#&#9;static/js/2.842d8a90.chunk.js.LICENSE.txt&#10;#&#9;static/js/2.b0c13a4e.chunk.js.LICENSE.txt&#10;#&#9;static/js/2.dfe30b29.chunk.js.LICENSE.txt" />
+    <MESSAGE value="reset, some new textures, orthogonal view" />
+    <MESSAGE value="added missing js chunks" />
+    <MESSAGE value="update december (colors, windows)" />
+    <option name="LAST_COMMIT_MESSAGE" value="update december (colors, windows)" />
+  </component>
+</project>
